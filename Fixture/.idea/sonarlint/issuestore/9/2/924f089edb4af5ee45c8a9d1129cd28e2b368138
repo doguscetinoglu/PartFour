@@ -1,0 +1,10 @@
+
+g
+java:S1192"KDefine a constant instead of duplicating this literal "----------" 3 times.(Â–ÁL8£ú¯ç1
+F	java:S106"+Replace this use of System.out by a logger.(Â–ÁL8ü£ú¯ç1
+G	java:S106"+Replace this use of System.out by a logger.(Û¿º8ÿ£ú¯ç1
+G	java:S1060"+Replace this use of System.out by a logger.(‰ù…á8‚¤ú¯ç1
+O
+java:S61260"2Replace this String concatenation with Text block.(‰ù…á8‚¤ú¯ç1
+F	java:S1062"+Replace this use of System.out by a logger.(Â–ÁL8ƒ¤ú¯ç1
+G	java:S1068"+Replace this use of System.out by a logger.(õÒ ì8„¤ú¯ç1

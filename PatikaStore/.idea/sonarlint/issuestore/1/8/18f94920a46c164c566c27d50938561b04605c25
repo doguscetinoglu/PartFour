@@ -1,0 +1,9 @@
+
+[
+java:S5993"9Change the visibility of this constructor to "protected".(Ý–Öƒýÿÿÿÿ8É¶Å°ç1
+[
+java:S5993"9Change the visibility of this constructor to "protected".(”«Ô¾ýÿÿÿÿ8É¶Å°ç1
+c	java:S107"BConstructor has 10 parameters, which is greater than 7 authorized.(Ý–Öƒýÿÿÿÿ8Ë¶Å°ç1
+b	java:S107"AConstructor has 9 parameters, which is greater than 7 authorized.(”«Ô¾ýÿÿÿÿ8Ì¶Å°ç1
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8Ô¶Å°ç1
